@@ -1,0 +1,57 @@
+[
+  {
+    "brand": "Asia",
+    "model": "Wall01",
+    "winglength":100,
+    "color": "black",
+    "wattage": "300watt",
+    "price": 1500,
+    "img": "img/fan/wallfan/wall1.jpg"
+  },
+  {
+    "brand": "Sunhouse",
+    "model": "Wall02",
+    "winglength":30,
+    "color": "brown",
+    "wattage": "50watt",
+    "price": 3000,
+    "img": "img/fan/wallfan/wall2.jpg"
+  },
+  {
+    "brand": "Hitachi",
+    "model": "Wall03",
+    "winglength":40,
+    "color": "silver",
+    "wattage": "100watt",
+    "price": 1100,
+    "img": "img/fan/wallfan/wall3.jpg"
+  },
+  {
+    "brand": "Senko",
+    "model": "Wall04",
+    "winglength":40,
+    "color": "white",
+    "wattage": "100watt",
+    "price": 1000,
+    "img": "img/fan/wallfan/wall4.jpg"
+  },
+  {
+    "brand": "Lifan",
+    "model": "Wall05",
+    "winglength":40,
+    "color": "black",
+    "wattage": "100watt",
+    "price": 1200,
+    "img": "img/fan/wallfan/wall5.jpg"
+  },
+  {
+    "brand": "Sharp",
+    "model": "Wall06",
+    "winglength":40,
+    "color": "grey",
+    "wattage": "100watt",
+    "price": 1300,
+    "img": "img/fan/wallfan/wall6.jpg"
+  }
+
+]

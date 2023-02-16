@@ -1,0 +1,50 @@
+[
+  {
+    "brand": "Asia",
+    "model": "PFS01",
+    "color": "blue",
+    "wattage": "50watt",
+    "price": 300000,
+    "img": "img/fan/pedestalfan/pfs1.jpg"
+  },
+  {
+    "brand": "Sunhouse",
+    "model": "PFS02",
+    "color": "gold",
+    "wattage": "70watt",
+    "price": 5000000,
+    "img": "img/fan/pedestalfan/pfs2.jpg"
+  },
+  {
+    "brand": "Hitachi",
+    "model": "PFS03",
+    "color": "black",
+    "wattage": "80watt",
+    "price": 600.0,
+    "img": "img/fan/pedestalfan/pfs3.jpg"
+  },
+  {
+    "brand": "Senko",
+    "model": "PFS04",
+    "color": "black",
+    "wattage": "90watt",
+    "price": 7000000,
+    "img": "img/fan/pedestalfan/pfs4.jpg"
+  },
+  {
+    "brand": "Lifan",
+    "model": "PFS05",
+    "color": "blue",
+    "wattage": "100watt",
+    "price": 8000000,
+    "img": "img/fan/pedestalfan/pfs5.jpg"
+  },
+  {
+    "brand": "Sharp",
+    "model": "PFS06",
+    "color": "silver",
+    "wattage": "200watt",
+    "price": 1200000,
+    "img": "img/fan/pedestalfan/pfs6.jpg"
+  }
+]

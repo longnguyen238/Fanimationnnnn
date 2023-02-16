@@ -1,0 +1,29 @@
+<link rel="stylesheet" href="test.css" />
+<section>
+  <div class="headline">
+    <h2 class="">PEDESTALFAN</h2>
+  </div>
+
+  <div ng-repeat="data in fanList ">
+    <div class="wrapper">
+      <ul class="products">
+        <li>
+          <div class="product-item">
+            <div class="product-top">
+              <a href="" class="product-thumb">
+                <img src="{{data.img}}" alt="" />
+              </a>
+              <!-- //Mua ngay -->
+            </div>
+            <div class="product-info">
+              <a href="" class="product-cat">{{data.brand}}</a>
+              <br />
+              <a href="" class="product-name">{{data.model}}</a>
+              <div class="product-price">{{data.price}}</div>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>

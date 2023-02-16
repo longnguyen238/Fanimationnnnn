@@ -1,0 +1,57 @@
+[
+  {
+    "brand": "Asia",
+    "model": "EFS01",
+    "winglength":100,
+    "color": "grey",
+    "wattage": "300watt",
+    "price": 2000,
+    "img": "img/fan/exhaustfan/efs1.jpg"
+  },
+  {
+    "brand": "Sunhouse",
+    "model": "EFS02",
+    "winglength":50,
+    "color": "black",
+    "wattage": "50watt",
+    "price": 1000,
+    "img": "img/fan/exhaustfan/efs2.jpg"
+  },
+  {
+    "brand": "Hitachi",
+    "model": "EFS03",
+    "winglength":50,
+    "color": "black",
+    "wattage": "100watt",
+    "price": 1000,
+    "img": "img/fan/exhaustfan/efs3.jpg"
+  },
+  {
+    "brand": "Senko",
+    "model": "EFS04",
+    "winglength":30,
+    "color": "white",
+    "wattage": "100watt",
+    "price": 600,
+    "img": "img/fan/exhaustfan/efs4.jpg"
+  },
+  {
+    "brand": "Lifan",
+    "model": "EFS05",
+    "winglength":30,
+    "color": "white",
+    "wattage": "100watt",
+    "price": 700,
+    "img": "img/fan/exhaustfan/efs5.jpg"
+  },
+  {
+    "brand": "Sharp",
+    "model": "EFS06",
+    "winglength":30,
+    "color": "yellow",
+    "wattage": "100watt",
+    "price": 800,
+    "img": "img/fan/exhaustfan/efs6.jpg"
+  }
+
+]
